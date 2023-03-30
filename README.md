@@ -1,3 +1,5 @@
+Gönderilen mesaj = {"type": "REGISTER", "name": "abdullah", "surname": "adanir", "email": "abdullahadnir2147@gmail.com", "registrationKey": "61b1b35bb7d5b08b6bd1ab0b0d62d21ebdf32109f15fe93c9a942c31646af243"}'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
